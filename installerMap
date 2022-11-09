@@ -1,0 +1,26 @@
+<h3>NOTE: This article may take a few seconds to load.</h3>
+<p>
+  <strong>THE FINE PRINT</strong>: This map contains data from public sources (i.e.
+  the installer's website). These are provided "as-is" for general reference only
+  and without any guarantee that the installer is capable of installing within
+  a given territory, market, or state. Some information is not publicly available
+  and it may show on the partner's own website that they sell in a territory. Data
+  may be updated on an irregular or infrequent basis and without prior notice.&nbsp;
+</p>
+<h2>Installer Reference Map</h2>
+<div class="embed-container">
+  <small><a style="color: #0000ff; text-align: left;" href="//lgcypower.maps.arcgis.com/apps/Embed/index.html?webmap=51732c2cd44c4c5bbdfa03183a4b696e&amp;extent=-128.651,18.3277,-59.3493,52.1431&amp;zoom=true&amp;scale=true&amp;search=true&amp;searchextent=true&amp;legendlayers=true&amp;disable_scroll=false&amp;theme=light" target="_blank" rel="noopener">View larger map</a></small><br>
+  <iframe title="bpcMap_20220706v2" src="//lgcypower.maps.arcgis.com/apps/Embed/index.html?webmap=51732c2cd44c4c5bbdfa03183a4b696e&amp;extent=-128.651,18.3277,-59.3493,52.1431&amp;zoom=true&amp;previewImage=false&amp;scale=true&amp;search=true&amp;searchextent=true&amp;legendlayers=true&amp;disable_scroll=false&amp;theme=light" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+</div>
+<h2>Help</h2>
+<ul>
+  <li class="embed-container">
+    Click the &gt;&gt; button to bring up the legend. In the legend, click on
+    a build partner to toggle their area on and off.
+  </li>
+  <li class="embed-container">
+    Click next to an address to see the build partner. If you would like to see
+    other build partners in the same area, click on the arrow that appears next
+    to (1 of X) in the header.
+  </li>
+</ul>
